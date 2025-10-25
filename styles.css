@@ -9,7 +9,7 @@ body {
 }
 
 a {
-  color: #fff;
+  color: white;
   text-decoration: none;
 }
 
@@ -22,7 +22,7 @@ a:active {
 }
 
 a:visited {
-  color: grey;
+  color: white;
 }
 
 .container {
